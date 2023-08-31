@@ -1,2 +1,2 @@
 #!/bin/bash
-tolnet towel.blinkenglish.nl
+telnet towel.blinkenglish.nl
